@@ -1,0 +1,2385 @@
+{
+    "selfLink": {
+        "href": "https://services.radio-canada.ca/hackathon2017/neuro/v1/themes/19/lineup?pagenumber=1"
+    },
+    "stickyLineupLink": null,
+    "id": "19",
+    "name": "Alimentation",
+    "title": "Alimentation",
+    "template": null,
+    "category": {
+        "id": "2",
+        "name": "Fil en continu"
+    },
+    "pagedList": {
+        "firstPageLink": {
+            "href": "https://services.radio-canada.ca/hackathon2017/neuro/v1/themes/19/lineup?pagenumber=1"
+        },
+        "previousPageLink": null,
+        "nextPageLink": {
+            "href": "https://services.radio-canada.ca/hackathon2017/neuro/v1/themes/19/lineup?pagenumber=2"
+        },
+        "lastPageLink": {
+            "href": "https://services.radio-canada.ca/hackathon2017/neuro/v1/themes/19/lineup?pagenumber=624"
+        },
+        "totalNumOfItems": 6237,
+        "pageNumber": 1,
+        "pageSize": 10,
+        "items": [
+            {
+                "$type": "RC.Neuro.Dtos.v1.FutureContentItemSummary, RC.Neuro.Dtos",
+                "selfLink": null,
+                "canonicalWebLink": {
+                    "href": "http://ici.radio-canada.ca/emissions/medium_large/2016-2017/chronique.asp?idChronique=432097"
+                },
+                "contentType": {
+                    "id": "16",
+                    "name": "Fiche radio"
+                },
+                "id": "432097",
+                "primaryClassificationTag": {
+                    "id": "4",
+                    "name": "Chronique",
+                    "codeName": "chronique"
+                },
+                "title": "Des bières à découvrir, selon le sommelier Simon Gaudreault",
+                "summary": "<p>Une pilsen digeste et rafraîchissante, idéale pour les terrasses, et une bière noire dense, sur mesure pour le temps froid, faites par des microbrasseries québécoises parmi les plus connues. C'est ce que Simon Gaudreault, sommelier en bières ou «&nbsp;bièrologue&nbsp;», recommande aux amateurs. Il explique à Isabelle Craig pourquoi sa première recommandation est idéale pour s'initier à l'univers des microbrasseries.</p>",
+                "kicker": "",
+                "futurePublishedLastTimeAt": "2017-03-24T14:45:00.000Z",
+                "template": null,
+                "themeTag": {
+                    "id": "19",
+                    "name": "Alimentation"
+                },
+                "subThemeTags": [
+                    {
+                        "id": "86",
+                        "name": "Vin"
+                    },
+                    {
+                        "id": "180",
+                        "name": "Gastronomie"
+                    }
+                ],
+                "regionTags": [],
+                "isOfRegionalInterestOnly": false,
+                "subjectTags": [],
+                "customTags": [],
+                "sector": null,
+                "subSector": null,
+                "broadcastableItem": {
+                    "contentType": {
+                        "id": "24",
+                        "name": "Émission"
+                    },
+                    "id": 372,
+                    "selfLink": {
+                        "href": "https://services.radio-canada.ca/hackathon2017/neuro/v1/programmes/372"
+                    },
+                    "title": "Médium large",
+                    "canonicalWebLink": {
+                        "href": "http://ici.radio-canada.ca/emissions/medium_large/"
+                    },
+                    "ancestors": [],
+                    "hierarchicalTitles": [
+                        "Médium large"
+                    ],
+                    "type": "programme"
+                },
+                "signatures": [],
+                "referredContent": null,
+                "summaryMultimediaItem": {
+                    "$type": "RC.Neuro.Dtos.v1.ConceptualImage, RC.Neuro.Dtos",
+                    "contentType": {
+                        "id": "20",
+                        "name": "Image (Ght1t)"
+                    },
+                    "alt": "Les choix de Simon Gaudreault",
+                    "legend": "Les choix de Simon Gaudreault",
+                    "imageCredits": "Radio-Canada/Olivier Lalande",
+                    "pressAgencies": [],
+                    "imageCollection": "",
+                    "concreteImages": [
+                        {
+                            "mediaLink": {
+                                "href": "http://img.radio-canada.ca/2017/03/24/1250x703/170324_5j0b0_mlarge_gaudreault_sn1250.jpg"
+                            },
+                            "width": 1250,
+                            "height": 703,
+                            "dimensionRatio": "16:9"
+                        },
+                        {
+                            "mediaLink": {
+                                "href": "http://img.radio-canada.ca/2017/03/24/635x357/170324_5j0b0_mlarge_gaudreault_sn635.jpg"
+                            },
+                            "width": 635,
+                            "height": 357,
+                            "dimensionRatio": "16:9"
+                        },
+                        {
+                            "mediaLink": {
+                                "href": "http://img.radio-canada.ca/2017/03/24/480x270/170324_5j0b0_mlarge_gaudreault_8.jpg"
+                            },
+                            "width": 480,
+                            "height": 270,
+                            "dimensionRatio": "16:9"
+                        },
+                        {
+                            "mediaLink": {
+                                "href": "http://img.radio-canada.ca/2017/03/24/420x236/170324_5j0b0_mlarge_gaudreault_sn420.jpg"
+                            },
+                            "width": 420,
+                            "height": 236,
+                            "dimensionRatio": "16:9"
+                        },
+                        {
+                            "mediaLink": {
+                                "href": "http://img.radio-canada.ca/2017/03/24/352x198/170324_5j0b0_mlarge_gaudreault_6.jpg"
+                            },
+                            "width": 352,
+                            "height": 198,
+                            "dimensionRatio": "16:9"
+                        },
+                        {
+                            "mediaLink": {
+                                "href": "http://img.radio-canada.ca/2017/03/24/310x174/170324_5j0b0_mlarge_gaudreault_sn310.jpg"
+                            },
+                            "width": 310,
+                            "height": 174,
+                            "dimensionRatio": "16:9"
+                        },
+                        {
+                            "mediaLink": {
+                                "href": "http://img.radio-canada.ca/2017/03/24/300x169/170324_5j0b0_mlarge_gaudreault_sn300.jpg"
+                            },
+                            "width": 300,
+                            "height": 169,
+                            "dimensionRatio": "16:9"
+                        },
+                        {
+                            "mediaLink": {
+                                "href": "http://img.radio-canada.ca/2017/03/24/240x135/170324_5j0b0_mlarge_gaudreault_4.jpg"
+                            },
+                            "width": 240,
+                            "height": 135,
+                            "dimensionRatio": "16:9"
+                        },
+                        {
+                            "mediaLink": {
+                                "href": "http://img.radio-canada.ca/2017/03/24/205x115/170324_5j0b0_mlarge_gaudreault_sn205.jpg"
+                            },
+                            "width": 205,
+                            "height": 115,
+                            "dimensionRatio": "16:9"
+                        },
+                        {
+                            "mediaLink": {
+                                "href": "http://img.radio-canada.ca/2017/03/24/160x90/170324_5j0b0_mlarge_gaudreault_3.jpg"
+                            },
+                            "width": 160,
+                            "height": 90,
+                            "dimensionRatio": "16:9"
+                        },
+                        {
+                            "mediaLink": {
+                                "href": "http://img.radio-canada.ca/2017/03/24/135x76/170324_5j0b0_mlarge_gaudreault_sn135.jpg"
+                            },
+                            "width": 135,
+                            "height": 76,
+                            "dimensionRatio": "16:9"
+                        },
+                        {
+                            "mediaLink": {
+                                "href": "http://img.radio-canada.ca/2017/03/24/112x63/170324_5j0b0_mlarge_gaudreault_2.jpg"
+                            },
+                            "width": 112,
+                            "height": 63,
+                            "dimensionRatio": "16:9"
+                        },
+                        {
+                            "mediaLink": {
+                                "href": "http://img.radio-canada.ca/2017/03/24/98x55/170324_5j0b0_mlarge_gaudreault_sn98.jpg"
+                            },
+                            "width": 98,
+                            "height": 55,
+                            "dimensionRatio": "16:9"
+                        },
+                        {
+                            "mediaLink": {
+                                "href": "http://img.radio-canada.ca/2017/03/24/64x36/170324_5j0b0_mlarge_gaudreault_1.jpg"
+                            },
+                            "width": 64,
+                            "height": 36,
+                            "dimensionRatio": "16:9"
+                        },
+                        {
+                            "mediaLink": {
+                                "href": "http://img.radio-canada.ca/2017/03/24/300x225/170324_5j0b0_mlarge_gaudreault_g.jpg"
+                            },
+                            "width": 300,
+                            "height": 225,
+                            "dimensionRatio": "4:3"
+                        },
+                        {
+                            "mediaLink": {
+                                "href": "http://img.radio-canada.ca/2017/03/24/180x135/170324_5j0b0_mlarge_gaudreault_n.jpg"
+                            },
+                            "width": 180,
+                            "height": 135,
+                            "dimensionRatio": "4:3"
+                        },
+                        {
+                            "mediaLink": {
+                                "href": "http://img.radio-canada.ca/2017/03/24/100x75/170324_5j0b0_mlarge_gaudreault_p.jpg"
+                            },
+                            "width": 100,
+                            "height": 75,
+                            "dimensionRatio": "4:3"
+                        },
+                        {
+                            "mediaLink": {
+                                "href": "http://img.radio-canada.ca/2017/03/24/80x60/170324_5j0b0_mlarge_gaudreault_t.jpg"
+                            },
+                            "width": 80,
+                            "height": 60,
+                            "dimensionRatio": "4:3"
+                        }
+                    ]
+                },
+                "relatedContents": [
+                    {
+                        "selfLink": null,
+                        "canonicalWebLink": null,
+                        "contentType": {
+                            "id": "15",
+                            "name": "Repère d'audio fil"
+                        },
+                        "id": null,
+                        "primaryClassificationTag": {
+                            "id": "12",
+                            "name": "Nouvelles",
+                            "codeName": "nouvelle"
+                        },
+                        "title": "Suggestions de bières du sommelier de Simon Gaudreault : Pils de MaBrasserie",
+                        "summary": null,
+                        "kicker": null,
+                        "futurePublishedLastTimeAt": "2017-03-24T13:06:00.000Z",
+                        "template": null,
+                        "themeTag": null,
+                        "subThemeTags": [],
+                        "regionTags": [],
+                        "isOfRegionalInterestOnly": false,
+                        "subjectTags": [],
+                        "customTags": [],
+                        "sector": null,
+                        "subSector": null,
+                        "broadcastableItem": {
+                            "contentType": {
+                                "id": "24",
+                                "name": "Émission"
+                            },
+                            "id": 372,
+                            "selfLink": {
+                                "href": "https://services.radio-canada.ca/hackathon2017/neuro/v1/programmes/372"
+                            },
+                            "title": "Médium large",
+                            "canonicalWebLink": {
+                                "href": "http://ici.radio-canada.ca/emissions/medium_large/"
+                            },
+                            "ancestors": [],
+                            "hierarchicalTitles": [
+                                "Médium large"
+                            ],
+                            "type": "programme"
+                        },
+                        "signatures": [],
+                        "referredContent": null,
+                        "summaryMultimediaItem": {
+                            "$type": "RC.Neuro.Dtos.v1.MediaThreadCue, RC.Neuro.Dtos",
+                            "mediaThread": {
+                                "programme": {
+                                    "selfLink": {
+                                        "href": "https://services.radio-canada.ca/hackathon2017/neuro/v1/programmes/372"
+                                    },
+                                    "canonicalWebLink": {
+                                        "href": "http://ici.radio-canada.ca/emissions/medium_large/"
+                                    },
+                                    "id": 372,
+                                    "title": "Médium large"
+                                },
+                                "broadcastedFirstTimeAt": "2017-03-24T13:06:00.000Z"
+                            },
+                            "media": {
+                                "selfLink": {
+                                    "href": "https://services.radio-canada.ca/hackathon2017/neuro/v1/media/7697631"
+                                },
+                                "contentType": {
+                                    "id": "1",
+                                    "name": "Média"
+                                },
+                                "futureId": "7697631",
+                                "contentSubtype": {
+                                    "id": "5",
+                                    "name": "Audio intégral",
+                                    "codeName": "audio_int"
+                                },
+                                "primaryClassificationTag": {
+                                    "id": "12",
+                                    "name": "Nouvelles",
+                                    "codeName": "nouvelle"
+                                },
+                                "title": "Suggestions de bières du sommelier de Simon Gaudreault : Pils de MaBrasserie",
+                                "futureDuration": 3195,
+                                "seekTime": 2320,
+                                "isExternalPlayAllowed": false,
+                                "downloadableFile": null,
+                                "summary": "",
+                                "summaryImage": {
+                                    "contentType": {
+                                        "id": "21",
+                                        "name": "Image non indexée"
+                                    },
+                                    "alt": "",
+                                    "legend": "",
+                                    "imageCredits": "",
+                                    "pressAgencies": [],
+                                    "imageCollection": "",
+                                    "concreteImages": [
+                                        {
+                                            "mediaLink": {
+                                                "href": "http://img.radio-canada.ca/ouglo/emission/635x357/mediumlarge.jpg"
+                                            },
+                                            "width": 635,
+                                            "height": 357,
+                                            "dimensionRatio": "16:9"
+                                        },
+                                        {
+                                            "mediaLink": {
+                                                "href": "http://img.radio-canada.ca/ouglo/emission/240x135/mediumlarge.jpg"
+                                            },
+                                            "width": 240,
+                                            "height": 135,
+                                            "dimensionRatio": "16:9"
+                                        },
+                                        {
+                                            "mediaLink": {
+                                                "href": "http://img.radio-canada.ca/ouglo/emission/112x63/mediumlarge.jpg"
+                                            },
+                                            "width": 112,
+                                            "height": 63,
+                                            "dimensionRatio": "16:9"
+                                        }
+                                    ]
+                                },
+                                "broadcastedFirstTimeAt": "2017-03-24T13:06:00.000Z",
+                                "credits": "",
+                                "id": "medianet-7697631",
+                                "type": "audio",
+                                "duration": "00:53:15",
+                                "contentTypeClassificationTag": {
+                                    "id": "1000005",
+                                    "name": "Audio intégral"
+                                }
+                            }
+                        },
+                        "relatedContents": [],
+                        "contentTypeClassificationTag": {
+                            "id": "1000005",
+                            "name": "Audio intégral"
+                        },
+                        "publishedLastTimeAt": "2017-03-24T13:06:00.000Z"
+                    },
+                    {
+                        "selfLink": null,
+                        "canonicalWebLink": null,
+                        "contentType": {
+                            "id": "15",
+                            "name": "Repère d'audio fil"
+                        },
+                        "id": null,
+                        "primaryClassificationTag": {
+                            "id": "12",
+                            "name": "Nouvelles",
+                            "codeName": "nouvelle"
+                        },
+                        "title": "Suggestions de bières de Simon Gaudreault : Péché Mortel de Dieu du Ciel",
+                        "summary": null,
+                        "kicker": null,
+                        "futurePublishedLastTimeAt": "2017-03-24T13:06:00.000Z",
+                        "template": null,
+                        "themeTag": null,
+                        "subThemeTags": [],
+                        "regionTags": [],
+                        "isOfRegionalInterestOnly": false,
+                        "subjectTags": [],
+                        "customTags": [],
+                        "sector": null,
+                        "subSector": null,
+                        "broadcastableItem": {
+                            "contentType": {
+                                "id": "24",
+                                "name": "Émission"
+                            },
+                            "id": 372,
+                            "selfLink": {
+                                "href": "https://services.radio-canada.ca/hackathon2017/neuro/v1/programmes/372"
+                            },
+                            "title": "Médium large",
+                            "canonicalWebLink": {
+                                "href": "http://ici.radio-canada.ca/emissions/medium_large/"
+                            },
+                            "ancestors": [],
+                            "hierarchicalTitles": [
+                                "Médium large"
+                            ],
+                            "type": "programme"
+                        },
+                        "signatures": [],
+                        "referredContent": null,
+                        "summaryMultimediaItem": {
+                            "$type": "RC.Neuro.Dtos.v1.MediaThreadCue, RC.Neuro.Dtos",
+                            "mediaThread": {
+                                "programme": {
+                                    "selfLink": {
+                                        "href": "https://services.radio-canada.ca/hackathon2017/neuro/v1/programmes/372"
+                                    },
+                                    "canonicalWebLink": {
+                                        "href": "http://ici.radio-canada.ca/emissions/medium_large/"
+                                    },
+                                    "id": 372,
+                                    "title": "Médium large"
+                                },
+                                "broadcastedFirstTimeAt": "2017-03-24T13:06:00.000Z"
+                            },
+                            "media": {
+                                "selfLink": {
+                                    "href": "https://services.radio-canada.ca/hackathon2017/neuro/v1/media/7697657"
+                                },
+                                "contentType": {
+                                    "id": "1",
+                                    "name": "Média"
+                                },
+                                "futureId": "7697657",
+                                "contentSubtype": {
+                                    "id": "5",
+                                    "name": "Audio intégral",
+                                    "codeName": "audio_int"
+                                },
+                                "primaryClassificationTag": {
+                                    "id": "12",
+                                    "name": "Nouvelles",
+                                    "codeName": "nouvelle"
+                                },
+                                "title": "Suggestions de bières de Simon Gaudreault : Péché Mortel de Dieu du Ciel",
+                                "futureDuration": 1395,
+                                "seekTime": 470,
+                                "isExternalPlayAllowed": false,
+                                "downloadableFile": null,
+                                "summary": "",
+                                "summaryImage": {
+                                    "contentType": {
+                                        "id": "21",
+                                        "name": "Image non indexée"
+                                    },
+                                    "alt": "",
+                                    "legend": "",
+                                    "imageCredits": "",
+                                    "pressAgencies": [],
+                                    "imageCollection": "",
+                                    "concreteImages": [
+                                        {
+                                            "mediaLink": {
+                                                "href": "http://img.radio-canada.ca/ouglo/emission/635x357/mediumlarge.jpg"
+                                            },
+                                            "width": 635,
+                                            "height": 357,
+                                            "dimensionRatio": "16:9"
+                                        },
+                                        {
+                                            "mediaLink": {
+                                                "href": "http://img.radio-canada.ca/ouglo/emission/240x135/mediumlarge.jpg"
+                                            },
+                                            "width": 240,
+                                            "height": 135,
+                                            "dimensionRatio": "16:9"
+                                        },
+                                        {
+                                            "mediaLink": {
+                                                "href": "http://img.radio-canada.ca/ouglo/emission/112x63/mediumlarge.jpg"
+                                            },
+                                            "width": 112,
+                                            "height": 63,
+                                            "dimensionRatio": "16:9"
+                                        }
+                                    ]
+                                },
+                                "broadcastedFirstTimeAt": "2017-03-24T13:06:00.000Z",
+                                "credits": "",
+                                "id": "medianet-7697657",
+                                "type": "audio",
+                                "duration": "00:23:15",
+                                "contentTypeClassificationTag": {
+                                    "id": "1000005",
+                                    "name": "Audio intégral"
+                                }
+                            }
+                        },
+                        "relatedContents": [],
+                        "contentTypeClassificationTag": {
+                            "id": "1000005",
+                            "name": "Audio intégral"
+                        },
+                        "publishedLastTimeAt": "2017-03-24T13:06:00.000Z"
+                    }
+                ],
+                "contentTypeClassificationTag": {
+                    "id": "4",
+                    "name": "Chronique"
+                },
+                "publishedLastTimeAt": "2017-03-24T14:45:00.000Z"
+            },
+            {
+                "$type": "RC.Neuro.Dtos.v1.FutureContentItemSummary, RC.Neuro.Dtos",
+                "selfLink": {
+                    "href": "https://services.radio-canada.ca/hackathon2017/neuro/v1/news-stories/1023905"
+                },
+                "canonicalWebLink": {
+                    "href": "http://ici.radio-canada.ca/nouvelle/1023905/le-canada-etiquette-mal-ses-produits-de-la-mer"
+                },
+                "contentType": {
+                    "id": "11",
+                    "name": "Nouvelle"
+                },
+                "id": "1023905",
+                "primaryClassificationTag": {
+                    "id": "12",
+                    "name": "Nouvelles",
+                    "codeName": "nouvelle"
+                },
+                "title": "Le Canada étiquette mal ses produits de la mer",
+                "summary": "<p>Les consommateurs canadiens n'ont pas accès à assez d'information lorsqu'ils achètent des produits de la mer, selon un récent rapport du groupe Seachoice. </p>",
+                "kicker": "",
+                "futurePublishedLastTimeAt": "2017-03-23T14:51:32.000Z",
+                "template": null,
+                "themeTag": {
+                    "id": "19",
+                    "name": "Alimentation"
+                },
+                "subThemeTags": [],
+                "regionTags": [
+                    {
+                        "id": "21",
+                        "name": "Côte-Nord"
+                    },
+                    {
+                        "id": "22",
+                        "name": "Gaspésie-Îles-de-la-Madeleine"
+                    },
+                    {
+                        "id": "20",
+                        "name": "Bas-Saint-Laurent"
+                    }
+                ],
+                "isOfRegionalInterestOnly": false,
+                "subjectTags": [],
+                "customTags": [],
+                "sector": {
+                    "id": "1",
+                    "name": "Info"
+                },
+                "subSector": {
+                    "id": "17",
+                    "name": "Bas-Saint-Laurent"
+                },
+                "broadcastableItem": null,
+                "signatures": [],
+                "referredContent": null,
+                "summaryMultimediaItem": {
+                    "$type": "RC.Neuro.Dtos.v1.ConceptualImage, RC.Neuro.Dtos",
+                    "contentType": {
+                        "id": "19",
+                        "name": "Image (Picto)"
+                    },
+                    "alt": "Le Nouveau-Brunswick a développé une importante activité économique liée au homard.",
+                    "legend": "Les produits de la mer sont mal étiquetés au Canada, selon le groupe Seachoice.",
+                    "imageCredits": "AFP/Remy Gabalda",
+                    "pressAgencies": [
+                        {
+                            "id": null,
+                            "name": "Getty Images",
+                            "codeName": "Getty Images"
+                        }
+                    ],
+                    "imageCollection": "",
+                    "concreteImages": [
+                        {
+                            "mediaLink": {
+                                "href": "https://images.radio-canada.ca/v1/ici-premiere/1x1/pplus-homard-cuit-acadie-fruits-de-mer.jpg"
+                            },
+                            "width": 2831,
+                            "height": 2831,
+                            "dimensionRatio": "1:1"
+                        },
+                        {
+                            "mediaLink": {
+                                "href": "https://images.radio-canada.ca/v1/ici-premiere/16x9/pplus-homard-cuit-acadie-fruits-de-mer.jpg"
+                            },
+                            "width": 4097,
+                            "height": 2305,
+                            "dimensionRatio": "16:9"
+                        },
+                        {
+                            "mediaLink": {
+                                "href": "https://images.radio-canada.ca/v1/ici-premiere/17x6/pplus-homard-cuit-acadie-fruits-de-mer.jpg"
+                            },
+                            "width": 4255,
+                            "height": 1502,
+                            "dimensionRatio": "17:6"
+                        },
+                        {
+                            "mediaLink": {
+                                "href": "https://images.radio-canada.ca/v1/ici-premiere/2x3/pplus-homard-cuit-acadie-fruits-de-mer.jpg"
+                            },
+                            "width": 1887,
+                            "height": 2831,
+                            "dimensionRatio": "2:3"
+                        },
+                        {
+                            "mediaLink": {
+                                "href": "https://images.radio-canada.ca/v1/ici-premiere/4x3/pplus-homard-cuit-acadie-fruits-de-mer.jpg"
+                            },
+                            "width": 3775,
+                            "height": 2832,
+                            "dimensionRatio": "4:3"
+                        },
+                        {
+                            "mediaLink": {
+                                "href": "https://images.radio-canada.ca/v1/ici-premiere/perso/pplus-homard-cuit-acadie-fruits-de-mer.jpg"
+                            },
+                            "width": 4255,
+                            "height": 2832,
+                            "dimensionRatio": "perso"
+                        }
+                    ]
+                },
+                "relatedContents": [],
+                "contentTypeClassificationTag": {
+                    "id": "12",
+                    "name": "Nouvelles"
+                },
+                "publishedLastTimeAt": "2017-03-23T14:51:32.000Z"
+            },
+            {
+                "$type": "RC.Neuro.Dtos.v1.FutureContentItemSummary, RC.Neuro.Dtos",
+                "selfLink": {
+                    "href": "https://services.radio-canada.ca/hackathon2017/neuro/v1/clips/18463"
+                },
+                "canonicalWebLink": {
+                    "href": "http://ici.radio-canada.ca/tele/l-epicerie/2016-2017/segments/reportage/18463/oeuf-revisite-laurent-godbout"
+                },
+                "contentType": {
+                    "id": "26",
+                    "name": "Segment"
+                },
+                "id": "18463",
+                "primaryClassificationTag": {
+                    "id": "16",
+                    "name": "Reportage",
+                    "codeName": "reportage"
+                },
+                "title": "Quoi de neuf avec l'oeuf?",
+                "summary": "<p>Le retour du coco</p>",
+                "kicker": "",
+                "futurePublishedLastTimeAt": "2017-03-23T12:44:24.000Z",
+                "template": null,
+                "themeTag": {
+                    "id": "19",
+                    "name": "Alimentation"
+                },
+                "subThemeTags": [
+                    {
+                        "id": "21",
+                        "name": "Consommation"
+                    }
+                ],
+                "regionTags": [],
+                "isOfRegionalInterestOnly": false,
+                "subjectTags": [],
+                "customTags": [],
+                "sector": {
+                    "id": "2",
+                    "name": "Télé"
+                },
+                "subSector": {
+                    "id": "29",
+                    "name": "Télé"
+                },
+                "broadcastableItem": {
+                    "contentType": {
+                        "id": "24",
+                        "name": "Émission"
+                    },
+                    "id": 51,
+                    "selfLink": {
+                        "href": "https://services.radio-canada.ca/hackathon2017/neuro/v1/programmes/51"
+                    },
+                    "title": "L'épicerie",
+                    "canonicalWebLink": null,
+                    "ancestors": [],
+                    "hierarchicalTitles": [
+                        "L'épicerie"
+                    ],
+                    "type": "programme"
+                },
+                "signatures": [],
+                "referredContent": null,
+                "summaryMultimediaItem": {
+                    "$type": "RC.Neuro.Dtos.v1.Media, RC.Neuro.Dtos",
+                    "selfLink": {
+                        "href": "https://services.radio-canada.ca/hackathon2017/neuro/v1/media/7695556"
+                    },
+                    "contentType": {
+                        "id": "1",
+                        "name": "Média"
+                    },
+                    "futureId": "7695556",
+                    "contentSubtype": {
+                        "id": "3",
+                        "name": "Vidéo",
+                        "codeName": "video"
+                    },
+                    "primaryClassificationTag": {
+                        "id": "12",
+                        "name": "Nouvelles",
+                        "codeName": "nouvelle"
+                    },
+                    "title": "Quoi de neuf avec l’oeuf?",
+                    "futureDuration": 251,
+                    "seekTime": 0,
+                    "isExternalPlayAllowed": false,
+                    "downloadableFile": null,
+                    "summary": "Ingrédient de base de la cuisine, l’oeuf occupe une place de choix au menu de la cabane à sucre. Le chef Laurent Godbout le revisite, le réinvente et nous fait craquer devant cet oeuf “nouveau genre”.\n\n\n",
+                    "summaryImage": {
+                        "contentType": {
+                            "id": "21",
+                            "name": "Image non indexée"
+                        },
+                        "alt": "",
+                        "legend": "",
+                        "imageCredits": "",
+                        "pressAgencies": [],
+                        "imageCollection": "",
+                        "concreteImages": [
+                            {
+                                "mediaLink": {
+                                    "href": "http://ici.radio-canada.ca/audio-video/lib/img/extraits/HR/2017-03-22_19_30_00_EPI_0741_04_01.jpeg"
+                                },
+                                "width": 640,
+                                "height": 360,
+                                "dimensionRatio": "16:9"
+                            }
+                        ]
+                    },
+                    "broadcastedFirstTimeAt": "2017-03-22T23:30:00.000Z",
+                    "credits": "",
+                    "id": "medianet-7695556",
+                    "type": "video",
+                    "duration": "00:04:11",
+                    "contentTypeClassificationTag": {
+                        "id": "1000003",
+                        "name": "Vidéo"
+                    }
+                },
+                "relatedContents": [],
+                "contentTypeClassificationTag": {
+                    "id": "16",
+                    "name": "Reportage"
+                },
+                "publishedLastTimeAt": "2017-03-23T12:44:24.000Z"
+            },
+            {
+                "$type": "RC.Neuro.Dtos.v1.FutureContentItemSummary, RC.Neuro.Dtos",
+                "selfLink": {
+                    "href": "https://services.radio-canada.ca/hackathon2017/neuro/v1/clips/18461"
+                },
+                "canonicalWebLink": {
+                    "href": "http://ici.radio-canada.ca/tele/l-epicerie/2016-2017/segments/reportage/18461/banane-murissement"
+                },
+                "contentType": {
+                    "id": "26",
+                    "name": "Segment"
+                },
+                "id": "18461",
+                "primaryClassificationTag": {
+                    "id": "16",
+                    "name": "Reportage",
+                    "codeName": "reportage"
+                },
+                "title": "Bananes vertes ou jaunes ?",
+                "summary": "<p>Tout sur le mûrissement de la banane!</p>",
+                "kicker": "",
+                "futurePublishedLastTimeAt": "2017-03-23T12:43:56.000Z",
+                "template": null,
+                "themeTag": {
+                    "id": "19",
+                    "name": "Alimentation"
+                },
+                "subThemeTags": [
+                    {
+                        "id": "21",
+                        "name": "Consommation"
+                    }
+                ],
+                "regionTags": [],
+                "isOfRegionalInterestOnly": false,
+                "subjectTags": [],
+                "customTags": [],
+                "sector": {
+                    "id": "2",
+                    "name": "Télé"
+                },
+                "subSector": {
+                    "id": "29",
+                    "name": "Télé"
+                },
+                "broadcastableItem": {
+                    "contentType": {
+                        "id": "24",
+                        "name": "Émission"
+                    },
+                    "id": 51,
+                    "selfLink": {
+                        "href": "https://services.radio-canada.ca/hackathon2017/neuro/v1/programmes/51"
+                    },
+                    "title": "L'épicerie",
+                    "canonicalWebLink": null,
+                    "ancestors": [],
+                    "hierarchicalTitles": [
+                        "L'épicerie"
+                    ],
+                    "type": "programme"
+                },
+                "signatures": [],
+                "referredContent": null,
+                "summaryMultimediaItem": {
+                    "$type": "RC.Neuro.Dtos.v1.Media, RC.Neuro.Dtos",
+                    "selfLink": {
+                        "href": "https://services.radio-canada.ca/hackathon2017/neuro/v1/media/7695530"
+                    },
+                    "contentType": {
+                        "id": "1",
+                        "name": "Média"
+                    },
+                    "futureId": "7695530",
+                    "contentSubtype": {
+                        "id": "3",
+                        "name": "Vidéo",
+                        "codeName": "video"
+                    },
+                    "primaryClassificationTag": {
+                        "id": "12",
+                        "name": "Nouvelles",
+                        "codeName": "nouvelle"
+                    },
+                    "title": "Bananes vertes ou jaunes ?",
+                    "futureDuration": 278,
+                    "seekTime": 0,
+                    "isExternalPlayAllowed": false,
+                    "downloadableFile": null,
+                    "summary": "La banane est un fruit tropical. Après un long voyage, elle est livrée encore verte dans les entrepôts du Québec. Commence alors un processus de mûrissement complexe et très précis afin qu’elle arrive à pleine maturité en épicerie. \n\n",
+                    "summaryImage": {
+                        "contentType": {
+                            "id": "21",
+                            "name": "Image non indexée"
+                        },
+                        "alt": "",
+                        "legend": "",
+                        "imageCredits": "",
+                        "pressAgencies": [],
+                        "imageCollection": "",
+                        "concreteImages": [
+                            {
+                                "mediaLink": {
+                                    "href": "http://ici.radio-canada.ca/audio-video/lib/img/extraits/HR/2017-03-22_19_30_00_EPI_0741_02_01.jpeg"
+                                },
+                                "width": 640,
+                                "height": 360,
+                                "dimensionRatio": "16:9"
+                            }
+                        ]
+                    },
+                    "broadcastedFirstTimeAt": "2017-03-22T23:30:00.000Z",
+                    "credits": "",
+                    "id": "medianet-7695530",
+                    "type": "video",
+                    "duration": "00:04:38",
+                    "contentTypeClassificationTag": {
+                        "id": "1000003",
+                        "name": "Vidéo"
+                    }
+                },
+                "relatedContents": [],
+                "contentTypeClassificationTag": {
+                    "id": "16",
+                    "name": "Reportage"
+                },
+                "publishedLastTimeAt": "2017-03-23T12:43:56.000Z"
+            },
+            {
+                "$type": "RC.Neuro.Dtos.v1.FutureContentItemSummary, RC.Neuro.Dtos",
+                "selfLink": {
+                    "href": "https://services.radio-canada.ca/hackathon2017/neuro/v1/clips/18459"
+                },
+                "canonicalWebLink": {
+                    "href": "http://ici.radio-canada.ca/tele/l-epicerie/2016-2017/segments/reportage/18459/huiles-olive-frelatees"
+                },
+                "contentType": {
+                    "id": "26",
+                    "name": "Segment"
+                },
+                "id": "18459",
+                "primaryClassificationTag": {
+                    "id": "16",
+                    "name": "Reportage",
+                    "codeName": "reportage"
+                },
+                "title": "Des huiles d’olive pas toujours pures?",
+                "summary": "",
+                "kicker": "",
+                "futurePublishedLastTimeAt": "2017-03-23T12:43:27.000Z",
+                "template": null,
+                "themeTag": {
+                    "id": "19",
+                    "name": "Alimentation"
+                },
+                "subThemeTags": [
+                    {
+                        "id": "21",
+                        "name": "Consommation"
+                    }
+                ],
+                "regionTags": [],
+                "isOfRegionalInterestOnly": false,
+                "subjectTags": [],
+                "customTags": [],
+                "sector": {
+                    "id": "2",
+                    "name": "Télé"
+                },
+                "subSector": {
+                    "id": "29",
+                    "name": "Télé"
+                },
+                "broadcastableItem": {
+                    "contentType": {
+                        "id": "24",
+                        "name": "Émission"
+                    },
+                    "id": 51,
+                    "selfLink": {
+                        "href": "https://services.radio-canada.ca/hackathon2017/neuro/v1/programmes/51"
+                    },
+                    "title": "L'épicerie",
+                    "canonicalWebLink": null,
+                    "ancestors": [],
+                    "hierarchicalTitles": [
+                        "L'épicerie"
+                    ],
+                    "type": "programme"
+                },
+                "signatures": [],
+                "referredContent": null,
+                "summaryMultimediaItem": {
+                    "$type": "RC.Neuro.Dtos.v1.Media, RC.Neuro.Dtos",
+                    "selfLink": {
+                        "href": "https://services.radio-canada.ca/hackathon2017/neuro/v1/media/7695525"
+                    },
+                    "contentType": {
+                        "id": "1",
+                        "name": "Média"
+                    },
+                    "futureId": "7695525",
+                    "contentSubtype": {
+                        "id": "3",
+                        "name": "Vidéo",
+                        "codeName": "video"
+                    },
+                    "primaryClassificationTag": {
+                        "id": "12",
+                        "name": "Nouvelles",
+                        "codeName": "nouvelle"
+                    },
+                    "title": "Des huiles d’olive pas toujours pures",
+                    "futureDuration": 454,
+                    "seekTime": 0,
+                    "isExternalPlayAllowed": false,
+                    "downloadableFile": null,
+                    "summary": "En Europe et aux États-Unis, les huiles d’olive frelatées ont fait la manchette. La situation canadienne est-elle similaire? Les huiles d’olive frauduleuses sont-elles aussi nombreuses au Canada? L’épicerie tente de faire la lumière sur la question.\n",
+                    "summaryImage": {
+                        "contentType": {
+                            "id": "21",
+                            "name": "Image non indexée"
+                        },
+                        "alt": "",
+                        "legend": "",
+                        "imageCredits": "",
+                        "pressAgencies": [],
+                        "imageCollection": "",
+                        "concreteImages": [
+                            {
+                                "mediaLink": {
+                                    "href": "http://ici.radio-canada.ca/audio-video/lib/img/extraits/HR/2017-03-22_19_30_00_EPI_0741_01_01.jpeg"
+                                },
+                                "width": 640,
+                                "height": 360,
+                                "dimensionRatio": "16:9"
+                            }
+                        ]
+                    },
+                    "broadcastedFirstTimeAt": "2017-03-22T23:30:00.000Z",
+                    "credits": "",
+                    "id": "medianet-7695525",
+                    "type": "video",
+                    "duration": "00:07:34",
+                    "contentTypeClassificationTag": {
+                        "id": "1000003",
+                        "name": "Vidéo"
+                    }
+                },
+                "relatedContents": [],
+                "contentTypeClassificationTag": {
+                    "id": "16",
+                    "name": "Reportage"
+                },
+                "publishedLastTimeAt": "2017-03-23T12:43:27.000Z"
+            },
+            {
+                "$type": "RC.Neuro.Dtos.v1.FutureContentItemSummary, RC.Neuro.Dtos",
+                "selfLink": {
+                    "href": "https://services.radio-canada.ca/hackathon2017/neuro/v1/clips/18938"
+                },
+                "canonicalWebLink": {
+                    "href": "http://ici.radio-canada.ca/premiere/emissions/le-15-18/segments/chronique/18938/insectes-barre-energetique-grillons-sport-"
+                },
+                "contentType": {
+                    "id": "26",
+                    "name": "Segment"
+                },
+                "id": "18938",
+                "primaryClassificationTag": {
+                    "id": "4",
+                    "name": "Chronique",
+                    "codeName": "chronique"
+                },
+                "title": "Des athlètes qui carburent aux aliments à base d’insectes",
+                "summary": "<p>&laquo;&nbsp;L'essayer, c'est l'adopter&nbsp;&raquo;, nous dit le triathlonien Alexis Lepage, qui consomme régulièrement des barres énergétiques aux grillons. Ce jeune athlète de 23 ans se dit propulsé par l'énergie qu'offrent les aliments à base d'insectes. Jean-Patrick Balleux en a discuté avec lui.</p>",
+                "kicker": "",
+                "futurePublishedLastTimeAt": "2017-03-22T21:10:17.000Z",
+                "template": null,
+                "themeTag": {
+                    "id": "19",
+                    "name": "Alimentation"
+                },
+                "subThemeTags": [
+                    {
+                        "id": "216",
+                        "name": "Santé physique"
+                    },
+                    {
+                        "id": "87",
+                        "name": "Activités sportives"
+                    },
+                    {
+                        "id": "128",
+                        "name": "Triathlon"
+                    }
+                ],
+                "regionTags": [
+                    {
+                        "id": "8",
+                        "name": "Montréal"
+                    }
+                ],
+                "isOfRegionalInterestOnly": false,
+                "subjectTags": [],
+                "customTags": [],
+                "sector": {
+                    "id": "3",
+                    "name": "Première"
+                },
+                "subSector": {
+                    "id": "26",
+                    "name": "Première - National"
+                },
+                "broadcastableItem": {
+                    "contentType": {
+                        "id": "24",
+                        "name": "Émission"
+                    },
+                    "id": 1327,
+                    "selfLink": {
+                        "href": "https://services.radio-canada.ca/hackathon2017/neuro/v1/programmes/1327"
+                    },
+                    "title": "Le 15-18",
+                    "canonicalWebLink": null,
+                    "ancestors": [],
+                    "hierarchicalTitles": [
+                        "Le 15-18"
+                    ],
+                    "type": "programme"
+                },
+                "signatures": [],
+                "referredContent": null,
+                "summaryMultimediaItem": {
+                    "$type": "RC.Neuro.Dtos.v1.Media, RC.Neuro.Dtos",
+                    "selfLink": {
+                        "href": "https://services.radio-canada.ca/hackathon2017/neuro/v1/media/7696634"
+                    },
+                    "contentType": {
+                        "id": "1",
+                        "name": "Média"
+                    },
+                    "futureId": "7696634",
+                    "contentSubtype": {
+                        "id": "5",
+                        "name": "Audio - intégral",
+                        "codeName": "audio_int"
+                    },
+                    "primaryClassificationTag": {
+                        "id": "12",
+                        "name": "Nouvelles",
+                        "codeName": "nouvelle"
+                    },
+                    "title": "Sports avec Jean-Patrick Balleux&nbsp;:&nbsp;Des aliments sportifs à la farine d'insectes",
+                    "futureDuration": 3195,
+                    "seekTime": 2729,
+                    "isExternalPlayAllowed": false,
+                    "downloadableFile": null,
+                    "summary": "",
+                    "summaryImage": {
+                        "contentType": {
+                            "id": "19",
+                            "name": "Image (Picto)"
+                        },
+                        "alt": "Des morceaux de la barre et son emballage dans une assiette.",
+                        "legend": "Les barres énergétiques aux grillons sont de plus populaires auprès des athlètes.",
+                        "imageCredits": "Roxanne Simard",
+                        "pressAgencies": [
+                            {
+                                "id": null,
+                                "name": "Radio-Canada",
+                                "codeName": "Radio-Canada"
+                            }
+                        ],
+                        "imageCollection": "",
+                        "concreteImages": [
+                            {
+                                "mediaLink": {
+                                    "href": "https://images.radio-canada.ca/v1/ici-premiere/1x1/le1518-barre-aliments-grillons-insectes.jpg"
+                                },
+                                "width": 1079,
+                                "height": 1080,
+                                "dimensionRatio": "1:1"
+                            },
+                            {
+                                "mediaLink": {
+                                    "href": "https://images.radio-canada.ca/v1/ici-premiere/16x9/le1518-barre-aliments-grillons-insectes.jpg"
+                                },
+                                "width": 1919,
+                                "height": 1080,
+                                "dimensionRatio": "16:9"
+                            },
+                            {
+                                "mediaLink": {
+                                    "href": "https://images.radio-canada.ca/v1/ici-premiere/17x6/le1518-barre-aliments-grillons-insectes.jpg"
+                                },
+                                "width": 1919,
+                                "height": 678,
+                                "dimensionRatio": "17:6"
+                            },
+                            {
+                                "mediaLink": {
+                                    "href": "https://images.radio-canada.ca/v1/ici-premiere/2x3/le1518-barre-aliments-grillons-insectes.jpg"
+                                },
+                                "width": 719,
+                                "height": 1080,
+                                "dimensionRatio": "2:3"
+                            },
+                            {
+                                "mediaLink": {
+                                    "href": "https://images.radio-canada.ca/v1/ici-premiere/4x3/le1518-barre-aliments-grillons-insectes.jpg"
+                                },
+                                "width": 1439,
+                                "height": 1080,
+                                "dimensionRatio": "4:3"
+                            },
+                            {
+                                "mediaLink": {
+                                    "href": "https://images.radio-canada.ca/v1/ici-premiere/perso/le1518-barre-aliments-grillons-insectes.jpg"
+                                },
+                                "width": 1919,
+                                "height": 1080,
+                                "dimensionRatio": "perso"
+                            }
+                        ]
+                    },
+                    "broadcastedFirstTimeAt": "2017-03-22T19:06:00.000Z",
+                    "credits": "",
+                    "id": "medianet-7696634",
+                    "type": "audio",
+                    "duration": "00:53:15",
+                    "contentTypeClassificationTag": {
+                        "id": "1000005",
+                        "name": "Audio - intégral"
+                    }
+                },
+                "relatedContents": [],
+                "contentTypeClassificationTag": {
+                    "id": "4",
+                    "name": "Chronique"
+                },
+                "publishedLastTimeAt": "2017-03-22T21:10:17.000Z"
+            },
+            {
+                "$type": "RC.Neuro.Dtos.v1.FutureContentItemSummary, RC.Neuro.Dtos",
+                "selfLink": {
+                    "href": "https://services.radio-canada.ca/hackathon2017/neuro/v1/news-stories/1023285"
+                },
+                "canonicalWebLink": {
+                    "href": "http://ici.radio-canada.ca/nouvelle/1023285/au-canada-bon-nombre-dhuiles-dolive-ne-respecteraient-pas-les-standards-de-qualite"
+                },
+                "contentType": {
+                    "id": "11",
+                    "name": "Nouvelle"
+                },
+                "id": "1023285",
+                "primaryClassificationTag": {
+                    "id": "12",
+                    "name": "Nouvelles",
+                    "codeName": "nouvelle"
+                },
+                "title": "Au Canada, bon nombre d’huiles d’olive ne respecteraient pas les standards de qualité",
+                "summary": "<p>C'est un scandale qui prend des proportions alarmantes et entache toute l'industrie de l'huile d'olive. De nombreuses huiles ne respectent pas les standards de qualité du Conseil oléicole international (COI) ou sont mal étiquetées. En Espagne et en Italie, on parle de <a href=\"http://ici.radio-canada.ca/nouvelle/543729/huile-olive-scandale\" title=\"\">fraude et d' &laquo;&nbsp;Agromafia&nbsp;&raquo;</a>. Et les consommateurs canadiens n'échappent pas au problème.</p>",
+                "kicker": "",
+                "futurePublishedLastTimeAt": "2017-03-22T14:56:42.000Z",
+                "template": null,
+                "themeTag": {
+                    "id": "19",
+                    "name": "Alimentation"
+                },
+                "subThemeTags": [
+                    {
+                        "id": "21",
+                        "name": "Consommation"
+                    }
+                ],
+                "regionTags": [],
+                "isOfRegionalInterestOnly": false,
+                "subjectTags": [],
+                "customTags": [],
+                "sector": {
+                    "id": "1",
+                    "name": "Info"
+                },
+                "subSector": {
+                    "id": "1",
+                    "name": "Info National"
+                },
+                "broadcastableItem": null,
+                "signatures": [],
+                "referredContent": null,
+                "summaryMultimediaItem": {
+                    "$type": "RC.Neuro.Dtos.v1.ConceptualImage, RC.Neuro.Dtos",
+                    "contentType": {
+                        "id": "19",
+                        "name": "Image (Picto)"
+                    },
+                    "alt": " La consommation d'huile d'olive a plus que doublé au Canada en 15 ans.",
+                    "legend": "La consommation d'huile d'olive a plus que doublé au Canada en 15 ans.",
+                    "imageCredits": "",
+                    "pressAgencies": [
+                        {
+                            "id": null,
+                            "name": "iStock",
+                            "codeName": "iStock"
+                        }
+                    ],
+                    "imageCollection": "",
+                    "concreteImages": [
+                        {
+                            "mediaLink": {
+                                "href": "https://images.radio-canada.ca/v1/ici-premiere/1x1/mlarge-huile-oliver.jpg"
+                            },
+                            "width": 614,
+                            "height": 614,
+                            "dimensionRatio": "1:1"
+                        },
+                        {
+                            "mediaLink": {
+                                "href": "https://images.radio-canada.ca/v1/ici-premiere/16x9/mlarge-huile-oliver.jpg"
+                            },
+                            "width": 1249,
+                            "height": 703,
+                            "dimensionRatio": "16:9"
+                        },
+                        {
+                            "mediaLink": {
+                                "href": "https://images.radio-canada.ca/v1/ici-premiere/17x6/mlarge-huile-oliver.jpg"
+                            },
+                            "width": 1249,
+                            "height": 441,
+                            "dimensionRatio": "17:6"
+                        },
+                        {
+                            "mediaLink": {
+                                "href": "https://images.radio-canada.ca/v1/ici-premiere/2x3/mlarge-huile-oliver.jpg"
+                            },
+                            "width": 467,
+                            "height": 701,
+                            "dimensionRatio": "2:3"
+                        },
+                        {
+                            "mediaLink": {
+                                "href": "https://images.radio-canada.ca/v1/ici-premiere/4x3/mlarge-huile-oliver.jpg"
+                            },
+                            "width": 927,
+                            "height": 695,
+                            "dimensionRatio": "4:3"
+                        },
+                        {
+                            "mediaLink": {
+                                "href": "https://images.radio-canada.ca/v1/ici-premiere/perso/mlarge-huile-oliver.jpg"
+                            },
+                            "width": 1249,
+                            "height": 703,
+                            "dimensionRatio": "perso"
+                        }
+                    ]
+                },
+                "relatedContents": [],
+                "contentTypeClassificationTag": {
+                    "id": "12",
+                    "name": "Nouvelles"
+                },
+                "publishedLastTimeAt": "2017-03-22T14:56:42.000Z"
+            },
+            {
+                "$type": "RC.Neuro.Dtos.v1.FutureContentItemSummary, RC.Neuro.Dtos",
+                "selfLink": {
+                    "href": "https://services.radio-canada.ca/hackathon2017/neuro/v1/clips/18846"
+                },
+                "canonicalWebLink": {
+                    "href": "http://ici.radio-canada.ca/tele/entree-principale/2016-2017/segments/chronique/18846/cafe-decafeine"
+                },
+                "contentType": {
+                    "id": "26",
+                    "name": "Segment"
+                },
+                "id": "18846",
+                "primaryClassificationTag": {
+                    "id": "4",
+                    "name": "Chronique",
+                    "codeName": "chronique"
+                },
+                "title": "Comment le café est-il décaféiné?",
+                "summary": "",
+                "kicker": "",
+                "futurePublishedLastTimeAt": "2017-03-21T15:46:37.000Z",
+                "template": null,
+                "themeTag": {
+                    "id": "19",
+                    "name": "Alimentation"
+                },
+                "subThemeTags": [],
+                "regionTags": [],
+                "isOfRegionalInterestOnly": false,
+                "subjectTags": [],
+                "customTags": [],
+                "sector": {
+                    "id": "2",
+                    "name": "Télé"
+                },
+                "subSector": {
+                    "id": "29",
+                    "name": "Télé"
+                },
+                "broadcastableItem": {
+                    "contentType": {
+                        "id": "24",
+                        "name": "Émission"
+                    },
+                    "id": 1302,
+                    "selfLink": {
+                        "href": "https://services.radio-canada.ca/hackathon2017/neuro/v1/programmes/1302"
+                    },
+                    "title": "Entrée principale",
+                    "canonicalWebLink": null,
+                    "ancestors": [],
+                    "hierarchicalTitles": [
+                        "Entrée principale"
+                    ],
+                    "type": "programme"
+                },
+                "signatures": [],
+                "referredContent": null,
+                "summaryMultimediaItem": {
+                    "$type": "RC.Neuro.Dtos.v1.Media, RC.Neuro.Dtos",
+                    "selfLink": {
+                        "href": "https://services.radio-canada.ca/hackathon2017/neuro/v1/media/7695926"
+                    },
+                    "contentType": {
+                        "id": "1",
+                        "name": "Média"
+                    },
+                    "futureId": "7695926",
+                    "contentSubtype": {
+                        "id": "3",
+                        "name": "Vidéo",
+                        "codeName": "video"
+                    },
+                    "primaryClassificationTag": {
+                        "id": "12",
+                        "name": "Nouvelles",
+                        "codeName": "nouvelle"
+                    },
+                    "title": "Comment le café est-il décaféiné?",
+                    "futureDuration": 334,
+                    "seekTime": 0,
+                    "isExternalPlayAllowed": false,
+                    "downloadableFile": null,
+                    "summary": "Certaines personnes choisissent de réduire leur consommation de caféine pour des raisons physiologiques ou pour boire du café dans la soirée, sans nuire à leur sommeil. Le café décaféiné est alors une bonne option pour apprécier la saveur du café sans ses effets. ",
+                    "summaryImage": {
+                        "contentType": {
+                            "id": "21",
+                            "name": "Image non indexée"
+                        },
+                        "alt": "",
+                        "legend": "",
+                        "imageCredits": "",
+                        "pressAgencies": [],
+                        "imageCollection": "",
+                        "concreteImages": [
+                            {
+                                "mediaLink": {
+                                    "href": "http://ici.radio-canada.ca/audio-video/lib/img/extraits/HR/2017-03-20_16_00_00_ENTREEPRINCIPALE_0002_01_01.jpeg"
+                                },
+                                "width": 640,
+                                "height": 360,
+                                "dimensionRatio": "16:9"
+                            }
+                        ]
+                    },
+                    "broadcastedFirstTimeAt": "2017-03-20T20:00:00.000Z",
+                    "credits": "",
+                    "id": "medianet-7695926",
+                    "type": "video",
+                    "duration": "00:05:34",
+                    "contentTypeClassificationTag": {
+                        "id": "1000003",
+                        "name": "Vidéo"
+                    }
+                },
+                "relatedContents": [],
+                "contentTypeClassificationTag": {
+                    "id": "4",
+                    "name": "Chronique"
+                },
+                "publishedLastTimeAt": "2017-03-21T15:46:37.000Z"
+            },
+            {
+                "$type": "RC.Neuro.Dtos.v1.FutureContentItemSummary, RC.Neuro.Dtos",
+                "selfLink": null,
+                "canonicalWebLink": {
+                    "href": "http://ici.radio-canada.ca/emissions/medium_large/2016-2017/chronique.asp?idChronique=431778"
+                },
+                "contentType": {
+                    "id": "16",
+                    "name": "Fiche radio"
+                },
+                "id": "431778",
+                "primaryClassificationTag": {
+                    "id": "11",
+                    "name": "Entrevue",
+                    "codeName": "entrevue"
+                },
+                "title": "Magnus Nilsson fait découvrir <i>La cuisine des pays nordiques</i>",
+                "summary": "<p>Gravlax, boulettes de viande, hareng... Les traditions culinaires de la Suède, du Danemark, de la Norvège et des pays avoisinants ne se résument pas qu'à cela. Le chef du restaurant Fäviken Magasinet cherche à les démystifier et à faire connaître leurs trésors dans son nouveau livre, qui répertorie des recettes traditionnelles de la Scandinavie. Magnus Nilsson explique à Isabelle Craig pourquoi il a déjà presque arrêté la cuisine.</p>",
+                "kicker": "",
+                "futurePublishedLastTimeAt": "2017-03-21T15:08:00.000Z",
+                "template": null,
+                "themeTag": {
+                    "id": "19",
+                    "name": "Alimentation"
+                },
+                "subThemeTags": [
+                    {
+                        "id": "207",
+                        "name": "Cuisine"
+                    },
+                    {
+                        "id": "180",
+                        "name": "Gastronomie"
+                    },
+                    {
+                        "id": "244",
+                        "name": "Industrie alimentaire"
+                    },
+                    {
+                        "id": "83",
+                        "name": "Tourisme"
+                    },
+                    {
+                        "id": "233",
+                        "name": "Voyage"
+                    }
+                ],
+                "regionTags": [],
+                "isOfRegionalInterestOnly": false,
+                "subjectTags": [],
+                "customTags": [],
+                "sector": null,
+                "subSector": null,
+                "broadcastableItem": {
+                    "contentType": {
+                        "id": "24",
+                        "name": "Émission"
+                    },
+                    "id": 372,
+                    "selfLink": {
+                        "href": "https://services.radio-canada.ca/hackathon2017/neuro/v1/programmes/372"
+                    },
+                    "title": "Médium large",
+                    "canonicalWebLink": {
+                        "href": "http://ici.radio-canada.ca/emissions/medium_large/"
+                    },
+                    "ancestors": [],
+                    "hierarchicalTitles": [
+                        "Médium large"
+                    ],
+                    "type": "programme"
+                },
+                "signatures": [],
+                "referredContent": null,
+                "summaryMultimediaItem": {
+                    "$type": "RC.Neuro.Dtos.v1.ConceptualImage, RC.Neuro.Dtos",
+                    "contentType": {
+                        "id": "20",
+                        "name": "Image (Ght1t)"
+                    },
+                    "alt": "Magnus Nilsson",
+                    "legend": "Magnus Nilsson",
+                    "imageCredits": "Radio-Canada/Olivier Lalande",
+                    "pressAgencies": [],
+                    "imageCollection": "",
+                    "concreteImages": [
+                        {
+                            "mediaLink": {
+                                "href": "http://img.radio-canada.ca/2017/03/21/1250x703/170321_1k8ff_mlarge_magnus_nilsson_sn1250.jpg"
+                            },
+                            "width": 1250,
+                            "height": 703,
+                            "dimensionRatio": "16:9"
+                        },
+                        {
+                            "mediaLink": {
+                                "href": "http://img.radio-canada.ca/2017/03/21/635x357/170321_1k8ff_mlarge_magnus_nilsson_sn635.jpg"
+                            },
+                            "width": 635,
+                            "height": 357,
+                            "dimensionRatio": "16:9"
+                        },
+                        {
+                            "mediaLink": {
+                                "href": "http://img.radio-canada.ca/2017/03/21/480x270/170321_1k8ff_mlarge_magnus_nilsson_8.jpg"
+                            },
+                            "width": 480,
+                            "height": 270,
+                            "dimensionRatio": "16:9"
+                        },
+                        {
+                            "mediaLink": {
+                                "href": "http://img.radio-canada.ca/2017/03/21/420x236/170321_1k8ff_mlarge_magnus_nilsson_sn420.jpg"
+                            },
+                            "width": 420,
+                            "height": 236,
+                            "dimensionRatio": "16:9"
+                        },
+                        {
+                            "mediaLink": {
+                                "href": "http://img.radio-canada.ca/2017/03/21/352x198/170321_1k8ff_mlarge_magnus_nilsson_6.jpg"
+                            },
+                            "width": 352,
+                            "height": 198,
+                            "dimensionRatio": "16:9"
+                        },
+                        {
+                            "mediaLink": {
+                                "href": "http://img.radio-canada.ca/2017/03/21/310x174/170321_1k8ff_mlarge_magnus_nilsson_sn310.jpg"
+                            },
+                            "width": 310,
+                            "height": 174,
+                            "dimensionRatio": "16:9"
+                        },
+                        {
+                            "mediaLink": {
+                                "href": "http://img.radio-canada.ca/2017/03/21/300x169/170321_1k8ff_mlarge_magnus_nilsson_sn300.jpg"
+                            },
+                            "width": 300,
+                            "height": 169,
+                            "dimensionRatio": "16:9"
+                        },
+                        {
+                            "mediaLink": {
+                                "href": "http://img.radio-canada.ca/2017/03/21/240x135/170321_1k8ff_mlarge_magnus_nilsson_4.jpg"
+                            },
+                            "width": 240,
+                            "height": 135,
+                            "dimensionRatio": "16:9"
+                        },
+                        {
+                            "mediaLink": {
+                                "href": "http://img.radio-canada.ca/2017/03/21/205x115/170321_1k8ff_mlarge_magnus_nilsson_sn205.jpg"
+                            },
+                            "width": 205,
+                            "height": 115,
+                            "dimensionRatio": "16:9"
+                        },
+                        {
+                            "mediaLink": {
+                                "href": "http://img.radio-canada.ca/2017/03/21/160x90/170321_1k8ff_mlarge_magnus_nilsson_3.jpg"
+                            },
+                            "width": 160,
+                            "height": 90,
+                            "dimensionRatio": "16:9"
+                        },
+                        {
+                            "mediaLink": {
+                                "href": "http://img.radio-canada.ca/2017/03/21/135x76/170321_1k8ff_mlarge_magnus_nilsson_sn135.jpg"
+                            },
+                            "width": 135,
+                            "height": 76,
+                            "dimensionRatio": "16:9"
+                        },
+                        {
+                            "mediaLink": {
+                                "href": "http://img.radio-canada.ca/2017/03/21/112x63/170321_1k8ff_mlarge_magnus_nilsson_2.jpg"
+                            },
+                            "width": 112,
+                            "height": 63,
+                            "dimensionRatio": "16:9"
+                        },
+                        {
+                            "mediaLink": {
+                                "href": "http://img.radio-canada.ca/2017/03/21/98x55/170321_1k8ff_mlarge_magnus_nilsson_sn98.jpg"
+                            },
+                            "width": 98,
+                            "height": 55,
+                            "dimensionRatio": "16:9"
+                        },
+                        {
+                            "mediaLink": {
+                                "href": "http://img.radio-canada.ca/2017/03/21/64x36/170321_1k8ff_mlarge_magnus_nilsson_1.jpg"
+                            },
+                            "width": 64,
+                            "height": 36,
+                            "dimensionRatio": "16:9"
+                        },
+                        {
+                            "mediaLink": {
+                                "href": "http://img.radio-canada.ca/2017/03/21/300x225/170321_1k8ff_mlarge_magnus_nilsson_g.jpg"
+                            },
+                            "width": 300,
+                            "height": 225,
+                            "dimensionRatio": "4:3"
+                        },
+                        {
+                            "mediaLink": {
+                                "href": "http://img.radio-canada.ca/2017/03/21/180x135/170321_1k8ff_mlarge_magnus_nilsson_n.jpg"
+                            },
+                            "width": 180,
+                            "height": 135,
+                            "dimensionRatio": "4:3"
+                        },
+                        {
+                            "mediaLink": {
+                                "href": "http://img.radio-canada.ca/2017/03/21/100x75/170321_1k8ff_mlarge_magnus_nilsson_p.jpg"
+                            },
+                            "width": 100,
+                            "height": 75,
+                            "dimensionRatio": "4:3"
+                        },
+                        {
+                            "mediaLink": {
+                                "href": "http://img.radio-canada.ca/2017/03/21/80x60/170321_1k8ff_mlarge_magnus_nilsson_t.jpg"
+                            },
+                            "width": 80,
+                            "height": 60,
+                            "dimensionRatio": "4:3"
+                        }
+                    ]
+                },
+                "relatedContents": [
+                    {
+                        "selfLink": null,
+                        "canonicalWebLink": null,
+                        "contentType": {
+                            "id": "15",
+                            "name": "Repère d'audio fil"
+                        },
+                        "id": null,
+                        "primaryClassificationTag": {
+                            "id": "12",
+                            "name": "Nouvelles",
+                            "codeName": "nouvelle"
+                        },
+                        "title": "Entrevue avec le chef suédois Magnus Nilsson : La cuisine des pays nordiques",
+                        "summary": null,
+                        "kicker": null,
+                        "futurePublishedLastTimeAt": "2017-03-21T13:06:00.000Z",
+                        "template": null,
+                        "themeTag": null,
+                        "subThemeTags": [],
+                        "regionTags": [],
+                        "isOfRegionalInterestOnly": false,
+                        "subjectTags": [],
+                        "customTags": [],
+                        "sector": null,
+                        "subSector": null,
+                        "broadcastableItem": {
+                            "contentType": {
+                                "id": "24",
+                                "name": "Émission"
+                            },
+                            "id": 372,
+                            "selfLink": {
+                                "href": "https://services.radio-canada.ca/hackathon2017/neuro/v1/programmes/372"
+                            },
+                            "title": "Médium large",
+                            "canonicalWebLink": {
+                                "href": "http://ici.radio-canada.ca/emissions/medium_large/"
+                            },
+                            "ancestors": [],
+                            "hierarchicalTitles": [
+                                "Médium large"
+                            ],
+                            "type": "programme"
+                        },
+                        "signatures": [],
+                        "referredContent": null,
+                        "summaryMultimediaItem": {
+                            "$type": "RC.Neuro.Dtos.v1.MediaThreadCue, RC.Neuro.Dtos",
+                            "mediaThread": {
+                                "programme": {
+                                    "selfLink": {
+                                        "href": "https://services.radio-canada.ca/hackathon2017/neuro/v1/programmes/372"
+                                    },
+                                    "canonicalWebLink": {
+                                        "href": "http://ici.radio-canada.ca/emissions/medium_large/"
+                                    },
+                                    "id": 372,
+                                    "title": "Médium large"
+                                },
+                                "broadcastedFirstTimeAt": "2017-03-21T13:06:00.000Z"
+                            },
+                            "media": {
+                                "selfLink": {
+                                    "href": "https://services.radio-canada.ca/hackathon2017/neuro/v1/media/7695932"
+                                },
+                                "contentType": {
+                                    "id": "1",
+                                    "name": "Média"
+                                },
+                                "futureId": "7695932",
+                                "contentSubtype": {
+                                    "id": "5",
+                                    "name": "Audio intégral",
+                                    "codeName": "audio_int"
+                                },
+                                "primaryClassificationTag": {
+                                    "id": "12",
+                                    "name": "Nouvelles",
+                                    "codeName": "nouvelle"
+                                },
+                                "title": "Entrevue avec le chef suédois Magnus Nilsson : La cuisine des pays nordiques",
+                                "futureDuration": 1395,
+                                "seekTime": 28,
+                                "isExternalPlayAllowed": false,
+                                "downloadableFile": null,
+                                "summary": "",
+                                "summaryImage": {
+                                    "contentType": {
+                                        "id": "21",
+                                        "name": "Image non indexée"
+                                    },
+                                    "alt": "",
+                                    "legend": "",
+                                    "imageCredits": "",
+                                    "pressAgencies": [],
+                                    "imageCollection": "",
+                                    "concreteImages": [
+                                        {
+                                            "mediaLink": {
+                                                "href": "http://img.radio-canada.ca/ouglo/emission/635x357/mediumlarge.jpg"
+                                            },
+                                            "width": 635,
+                                            "height": 357,
+                                            "dimensionRatio": "16:9"
+                                        },
+                                        {
+                                            "mediaLink": {
+                                                "href": "http://img.radio-canada.ca/ouglo/emission/240x135/mediumlarge.jpg"
+                                            },
+                                            "width": 240,
+                                            "height": 135,
+                                            "dimensionRatio": "16:9"
+                                        },
+                                        {
+                                            "mediaLink": {
+                                                "href": "http://img.radio-canada.ca/ouglo/emission/112x63/mediumlarge.jpg"
+                                            },
+                                            "width": 112,
+                                            "height": 63,
+                                            "dimensionRatio": "16:9"
+                                        }
+                                    ]
+                                },
+                                "broadcastedFirstTimeAt": "2017-03-21T13:06:00.000Z",
+                                "credits": "",
+                                "id": "medianet-7695932",
+                                "type": "audio",
+                                "duration": "00:23:15",
+                                "contentTypeClassificationTag": {
+                                    "id": "1000005",
+                                    "name": "Audio intégral"
+                                }
+                            }
+                        },
+                        "relatedContents": [],
+                        "contentTypeClassificationTag": {
+                            "id": "1000005",
+                            "name": "Audio intégral"
+                        },
+                        "publishedLastTimeAt": "2017-03-21T13:06:00.000Z"
+                    }
+                ],
+                "contentTypeClassificationTag": {
+                    "id": "11",
+                    "name": "Entrevue"
+                },
+                "publishedLastTimeAt": "2017-03-21T15:08:00.000Z"
+            },
+            {
+                "$type": "RC.Neuro.Dtos.v1.FutureContentItemSummary, RC.Neuro.Dtos",
+                "selfLink": null,
+                "canonicalWebLink": {
+                    "href": "http://ici.radio-canada.ca/emissions/medium_large/2016-2017/chronique.asp?idChronique=431758"
+                },
+                "contentType": {
+                    "id": "16",
+                    "name": "Fiche radio"
+                },
+                "id": "431758",
+                "primaryClassificationTag": {
+                    "id": "4",
+                    "name": "Chronique",
+                    "codeName": "chronique"
+                },
+                "title": "Gastronomie : l'ultrasimplicité a la cote",
+                "summary": "<p>Des ingrédients indigènes, frais, peu manipulés, souvent même pas réfrigérés, cuisinés et servis dans une atmosphère décontractée... Cette approche a fait la renommée du restaurant Hartwood, au Mexique, et fait maintenant saliver les chefs et leurs clients partout dans le monde. Lesley Chesterman, critique gastronomique, fait la radiographie de cette nouvelle tendance au micro d'Isabelle Craig.</p>",
+                "kicker": "",
+                "futurePublishedLastTimeAt": "2017-03-21T14:08:00.000Z",
+                "template": null,
+                "themeTag": {
+                    "id": "19",
+                    "name": "Alimentation"
+                },
+                "subThemeTags": [
+                    {
+                        "id": "180",
+                        "name": "Gastronomie"
+                    },
+                    {
+                        "id": "207",
+                        "name": "Cuisine"
+                    }
+                ],
+                "regionTags": [],
+                "isOfRegionalInterestOnly": false,
+                "subjectTags": [],
+                "customTags": [],
+                "sector": null,
+                "subSector": null,
+                "broadcastableItem": {
+                    "contentType": {
+                        "id": "24",
+                        "name": "Émission"
+                    },
+                    "id": 372,
+                    "selfLink": {
+                        "href": "https://services.radio-canada.ca/hackathon2017/neuro/v1/programmes/372"
+                    },
+                    "title": "Médium large",
+                    "canonicalWebLink": {
+                        "href": "http://ici.radio-canada.ca/emissions/medium_large/"
+                    },
+                    "ancestors": [],
+                    "hierarchicalTitles": [
+                        "Médium large"
+                    ],
+                    "type": "programme"
+                },
+                "signatures": [],
+                "referredContent": null,
+                "summaryMultimediaItem": {
+                    "$type": "RC.Neuro.Dtos.v1.ConceptualImage, RC.Neuro.Dtos",
+                    "contentType": {
+                        "id": "20",
+                        "name": "Image (Ght1t)"
+                    },
+                    "alt": "Exemple de la nourriture servie au restaurant Hartwood à Tulum, au Mexique",
+                    "legend": "Exemple de la nourriture servie au restaurant Hartwood à Tulum, au Mexique",
+                    "imageCredits": "facebook.com/Hartwood-195938653817373",
+                    "pressAgencies": [],
+                    "imageCollection": "",
+                    "concreteImages": [
+                        {
+                            "mediaLink": {
+                                "href": "http://img.radio-canada.ca/2017/03/21/1250x703/170321_hy29i_mlarge_hartwood_sn1250.jpg"
+                            },
+                            "width": 1250,
+                            "height": 703,
+                            "dimensionRatio": "16:9"
+                        },
+                        {
+                            "mediaLink": {
+                                "href": "http://img.radio-canada.ca/2017/03/21/635x357/170321_hy29i_mlarge_hartwood_sn635.jpg"
+                            },
+                            "width": 635,
+                            "height": 357,
+                            "dimensionRatio": "16:9"
+                        },
+                        {
+                            "mediaLink": {
+                                "href": "http://img.radio-canada.ca/2017/03/21/480x270/170321_hy29i_mlarge_hartwood_8.jpg"
+                            },
+                            "width": 480,
+                            "height": 270,
+                            "dimensionRatio": "16:9"
+                        },
+                        {
+                            "mediaLink": {
+                                "href": "http://img.radio-canada.ca/2017/03/21/420x236/170321_hy29i_mlarge_hartwood_sn420.jpg"
+                            },
+                            "width": 420,
+                            "height": 236,
+                            "dimensionRatio": "16:9"
+                        },
+                        {
+                            "mediaLink": {
+                                "href": "http://img.radio-canada.ca/2017/03/21/352x198/170321_hy29i_mlarge_hartwood_6.jpg"
+                            },
+                            "width": 352,
+                            "height": 198,
+                            "dimensionRatio": "16:9"
+                        },
+                        {
+                            "mediaLink": {
+                                "href": "http://img.radio-canada.ca/2017/03/21/310x174/170321_hy29i_mlarge_hartwood_sn310.jpg"
+                            },
+                            "width": 310,
+                            "height": 174,
+                            "dimensionRatio": "16:9"
+                        },
+                        {
+                            "mediaLink": {
+                                "href": "http://img.radio-canada.ca/2017/03/21/300x169/170321_hy29i_mlarge_hartwood_sn300.jpg"
+                            },
+                            "width": 300,
+                            "height": 169,
+                            "dimensionRatio": "16:9"
+                        },
+                        {
+                            "mediaLink": {
+                                "href": "http://img.radio-canada.ca/2017/03/21/240x135/170321_hy29i_mlarge_hartwood_4.jpg"
+                            },
+                            "width": 240,
+                            "height": 135,
+                            "dimensionRatio": "16:9"
+                        },
+                        {
+                            "mediaLink": {
+                                "href": "http://img.radio-canada.ca/2017/03/21/205x115/170321_hy29i_mlarge_hartwood_sn205.jpg"
+                            },
+                            "width": 205,
+                            "height": 115,
+                            "dimensionRatio": "16:9"
+                        },
+                        {
+                            "mediaLink": {
+                                "href": "http://img.radio-canada.ca/2017/03/21/160x90/170321_hy29i_mlarge_hartwood_3.jpg"
+                            },
+                            "width": 160,
+                            "height": 90,
+                            "dimensionRatio": "16:9"
+                        },
+                        {
+                            "mediaLink": {
+                                "href": "http://img.radio-canada.ca/2017/03/21/135x76/170321_hy29i_mlarge_hartwood_sn135.jpg"
+                            },
+                            "width": 135,
+                            "height": 76,
+                            "dimensionRatio": "16:9"
+                        },
+                        {
+                            "mediaLink": {
+                                "href": "http://img.radio-canada.ca/2017/03/21/112x63/170321_hy29i_mlarge_hartwood_2.jpg"
+                            },
+                            "width": 112,
+                            "height": 63,
+                            "dimensionRatio": "16:9"
+                        },
+                        {
+                            "mediaLink": {
+                                "href": "http://img.radio-canada.ca/2017/03/21/98x55/170321_hy29i_mlarge_hartwood_sn98.jpg"
+                            },
+                            "width": 98,
+                            "height": 55,
+                            "dimensionRatio": "16:9"
+                        },
+                        {
+                            "mediaLink": {
+                                "href": "http://img.radio-canada.ca/2017/03/21/64x36/170321_hy29i_mlarge_hartwood_1.jpg"
+                            },
+                            "width": 64,
+                            "height": 36,
+                            "dimensionRatio": "16:9"
+                        },
+                        {
+                            "mediaLink": {
+                                "href": "http://img.radio-canada.ca/2017/03/21/300x225/170321_hy29i_mlarge_hartwood_g.jpg"
+                            },
+                            "width": 300,
+                            "height": 225,
+                            "dimensionRatio": "4:3"
+                        },
+                        {
+                            "mediaLink": {
+                                "href": "http://img.radio-canada.ca/2017/03/21/180x135/170321_hy29i_mlarge_hartwood_n.jpg"
+                            },
+                            "width": 180,
+                            "height": 135,
+                            "dimensionRatio": "4:3"
+                        },
+                        {
+                            "mediaLink": {
+                                "href": "http://img.radio-canada.ca/2017/03/21/100x75/170321_hy29i_mlarge_hartwood_p.jpg"
+                            },
+                            "width": 100,
+                            "height": 75,
+                            "dimensionRatio": "4:3"
+                        },
+                        {
+                            "mediaLink": {
+                                "href": "http://img.radio-canada.ca/2017/03/21/80x60/170321_hy29i_mlarge_hartwood_t.jpg"
+                            },
+                            "width": 80,
+                            "height": 60,
+                            "dimensionRatio": "4:3"
+                        }
+                    ]
+                },
+                "relatedContents": [
+                    {
+                        "selfLink": null,
+                        "canonicalWebLink": null,
+                        "contentType": {
+                            "id": "15",
+                            "name": "Repère d'audio fil"
+                        },
+                        "id": null,
+                        "primaryClassificationTag": {
+                            "id": "12",
+                            "name": "Nouvelles",
+                            "codeName": "nouvelle"
+                        },
+                        "title": "Gastronomie avec Lesley Chesterman : Le restaurant de Tulum Hartwood",
+                        "summary": null,
+                        "kicker": null,
+                        "futurePublishedLastTimeAt": "2017-03-21T13:06:00.000Z",
+                        "template": null,
+                        "themeTag": null,
+                        "subThemeTags": [],
+                        "regionTags": [],
+                        "isOfRegionalInterestOnly": false,
+                        "subjectTags": [],
+                        "customTags": [],
+                        "sector": null,
+                        "subSector": null,
+                        "broadcastableItem": {
+                            "contentType": {
+                                "id": "24",
+                                "name": "Émission"
+                            },
+                            "id": 372,
+                            "selfLink": {
+                                "href": "https://services.radio-canada.ca/hackathon2017/neuro/v1/programmes/372"
+                            },
+                            "title": "Médium large",
+                            "canonicalWebLink": {
+                                "href": "http://ici.radio-canada.ca/emissions/medium_large/"
+                            },
+                            "ancestors": [],
+                            "hierarchicalTitles": [
+                                "Médium large"
+                            ],
+                            "type": "programme"
+                        },
+                        "signatures": [],
+                        "referredContent": null,
+                        "summaryMultimediaItem": {
+                            "$type": "RC.Neuro.Dtos.v1.MediaThreadCue, RC.Neuro.Dtos",
+                            "mediaThread": {
+                                "programme": {
+                                    "selfLink": {
+                                        "href": "https://services.radio-canada.ca/hackathon2017/neuro/v1/programmes/372"
+                                    },
+                                    "canonicalWebLink": {
+                                        "href": "http://ici.radio-canada.ca/emissions/medium_large/"
+                                    },
+                                    "id": 372,
+                                    "title": "Médium large"
+                                },
+                                "broadcastedFirstTimeAt": "2017-03-21T13:06:00.000Z"
+                            },
+                            "media": {
+                                "selfLink": {
+                                    "href": "https://services.radio-canada.ca/hackathon2017/neuro/v1/media/7695903"
+                                },
+                                "contentType": {
+                                    "id": "1",
+                                    "name": "Média"
+                                },
+                                "futureId": "7695903",
+                                "contentSubtype": {
+                                    "id": "5",
+                                    "name": "Audio intégral",
+                                    "codeName": "audio_int"
+                                },
+                                "primaryClassificationTag": {
+                                    "id": "12",
+                                    "name": "Nouvelles",
+                                    "codeName": "nouvelle"
+                                },
+                                "title": "Gastronomie avec Lesley Chesterman : Le restaurant de Tulum Hartwood",
+                                "futureDuration": 3195,
+                                "seekTime": 165,
+                                "isExternalPlayAllowed": false,
+                                "downloadableFile": null,
+                                "summary": "",
+                                "summaryImage": {
+                                    "contentType": {
+                                        "id": "21",
+                                        "name": "Image non indexée"
+                                    },
+                                    "alt": "",
+                                    "legend": "",
+                                    "imageCredits": "",
+                                    "pressAgencies": [],
+                                    "imageCollection": "",
+                                    "concreteImages": [
+                                        {
+                                            "mediaLink": {
+                                                "href": "http://img.radio-canada.ca/ouglo/emission/635x357/mediumlarge.jpg"
+                                            },
+                                            "width": 635,
+                                            "height": 357,
+                                            "dimensionRatio": "16:9"
+                                        },
+                                        {
+                                            "mediaLink": {
+                                                "href": "http://img.radio-canada.ca/ouglo/emission/240x135/mediumlarge.jpg"
+                                            },
+                                            "width": 240,
+                                            "height": 135,
+                                            "dimensionRatio": "16:9"
+                                        },
+                                        {
+                                            "mediaLink": {
+                                                "href": "http://img.radio-canada.ca/ouglo/emission/112x63/mediumlarge.jpg"
+                                            },
+                                            "width": 112,
+                                            "height": 63,
+                                            "dimensionRatio": "16:9"
+                                        }
+                                    ]
+                                },
+                                "broadcastedFirstTimeAt": "2017-03-21T13:06:00.000Z",
+                                "credits": "",
+                                "id": "medianet-7695903",
+                                "type": "audio",
+                                "duration": "00:53:15",
+                                "contentTypeClassificationTag": {
+                                    "id": "1000005",
+                                    "name": "Audio intégral"
+                                }
+                            }
+                        },
+                        "relatedContents": [],
+                        "contentTypeClassificationTag": {
+                            "id": "1000005",
+                            "name": "Audio intégral"
+                        },
+                        "publishedLastTimeAt": "2017-03-21T13:06:00.000Z"
+                    },
+                    {
+                        "selfLink": null,
+                        "canonicalWebLink": null,
+                        "contentType": {
+                            "id": "15",
+                            "name": "Repère d'audio fil"
+                        },
+                        "id": null,
+                        "primaryClassificationTag": {
+                            "id": "12",
+                            "name": "Nouvelles",
+                            "codeName": "nouvelle"
+                        },
+                        "title": "Les brèves de nos chroniqueurs",
+                        "summary": null,
+                        "kicker": null,
+                        "futurePublishedLastTimeAt": "2017-03-21T13:06:00.000Z",
+                        "template": null,
+                        "themeTag": null,
+                        "subThemeTags": [],
+                        "regionTags": [],
+                        "isOfRegionalInterestOnly": false,
+                        "subjectTags": [],
+                        "customTags": [],
+                        "sector": null,
+                        "subSector": null,
+                        "broadcastableItem": {
+                            "contentType": {
+                                "id": "24",
+                                "name": "Émission"
+                            },
+                            "id": 372,
+                            "selfLink": {
+                                "href": "https://services.radio-canada.ca/hackathon2017/neuro/v1/programmes/372"
+                            },
+                            "title": "Médium large",
+                            "canonicalWebLink": {
+                                "href": "http://ici.radio-canada.ca/emissions/medium_large/"
+                            },
+                            "ancestors": [],
+                            "hierarchicalTitles": [
+                                "Médium large"
+                            ],
+                            "type": "programme"
+                        },
+                        "signatures": [],
+                        "referredContent": null,
+                        "summaryMultimediaItem": {
+                            "$type": "RC.Neuro.Dtos.v1.MediaThreadCue, RC.Neuro.Dtos",
+                            "mediaThread": {
+                                "programme": {
+                                    "selfLink": {
+                                        "href": "https://services.radio-canada.ca/hackathon2017/neuro/v1/programmes/372"
+                                    },
+                                    "canonicalWebLink": {
+                                        "href": "http://ici.radio-canada.ca/emissions/medium_large/"
+                                    },
+                                    "id": 372,
+                                    "title": "Médium large"
+                                },
+                                "broadcastedFirstTimeAt": "2017-03-21T13:06:00.000Z"
+                            },
+                            "media": {
+                                "selfLink": {
+                                    "href": "https://services.radio-canada.ca/hackathon2017/neuro/v1/media/7695903"
+                                },
+                                "contentType": {
+                                    "id": "1",
+                                    "name": "Média"
+                                },
+                                "futureId": "7695903",
+                                "contentSubtype": {
+                                    "id": "5",
+                                    "name": "Audio intégral",
+                                    "codeName": "audio_int"
+                                },
+                                "primaryClassificationTag": {
+                                    "id": "12",
+                                    "name": "Nouvelles",
+                                    "codeName": "nouvelle"
+                                },
+                                "title": "Les brèves de nos chroniqueurs",
+                                "futureDuration": 3195,
+                                "seekTime": 3071,
+                                "isExternalPlayAllowed": false,
+                                "downloadableFile": null,
+                                "summary": "",
+                                "summaryImage": {
+                                    "contentType": {
+                                        "id": "21",
+                                        "name": "Image non indexée"
+                                    },
+                                    "alt": "",
+                                    "legend": "",
+                                    "imageCredits": "",
+                                    "pressAgencies": [],
+                                    "imageCollection": "",
+                                    "concreteImages": [
+                                        {
+                                            "mediaLink": {
+                                                "href": "http://img.radio-canada.ca/ouglo/emission/635x357/mediumlarge.jpg"
+                                            },
+                                            "width": 635,
+                                            "height": 357,
+                                            "dimensionRatio": "16:9"
+                                        },
+                                        {
+                                            "mediaLink": {
+                                                "href": "http://img.radio-canada.ca/ouglo/emission/240x135/mediumlarge.jpg"
+                                            },
+                                            "width": 240,
+                                            "height": 135,
+                                            "dimensionRatio": "16:9"
+                                        },
+                                        {
+                                            "mediaLink": {
+                                                "href": "http://img.radio-canada.ca/ouglo/emission/112x63/mediumlarge.jpg"
+                                            },
+                                            "width": 112,
+                                            "height": 63,
+                                            "dimensionRatio": "16:9"
+                                        }
+                                    ]
+                                },
+                                "broadcastedFirstTimeAt": "2017-03-21T13:06:00.000Z",
+                                "credits": "",
+                                "id": "medianet-7695903",
+                                "type": "audio",
+                                "duration": "00:53:15",
+                                "contentTypeClassificationTag": {
+                                    "id": "1000005",
+                                    "name": "Audio intégral"
+                                }
+                            }
+                        },
+                        "relatedContents": [],
+                        "contentTypeClassificationTag": {
+                            "id": "1000005",
+                            "name": "Audio intégral"
+                        },
+                        "publishedLastTimeAt": "2017-03-21T13:06:00.000Z"
+                    }
+                ],
+                "contentTypeClassificationTag": {
+                    "id": "4",
+                    "name": "Chronique"
+                },
+                "publishedLastTimeAt": "2017-03-21T14:08:00.000Z"
+            }
+        ]
+    }
+}
